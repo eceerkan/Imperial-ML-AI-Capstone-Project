@@ -1,0 +1,82 @@
+[
+  {
+    "function": 1,
+    "dimensions": 2,
+    "initial_count": 10,
+    "weekly_count": 12,
+    "total_count": 22,
+    "initial_best": 7.710875114502849e-16,
+    "best_observed": 2.7080423431034e-13,
+    "best_source": "week 6"
+  },
+  {
+    "function": 2,
+    "dimensions": 2,
+    "initial_count": 10,
+    "weekly_count": 12,
+    "total_count": 22,
+    "initial_best": 0.6112052157614438,
+    "best_observed": 0.6547668258664486,
+    "best_source": "week 11"
+  },
+  {
+    "function": 3,
+    "dimensions": 3,
+    "initial_count": 15,
+    "weekly_count": 12,
+    "total_count": 27,
+    "initial_best": -0.034835313350078584,
+    "best_observed": -0.03224842457431007,
+    "best_source": "week 11"
+  },
+  {
+    "function": 4,
+    "dimensions": 4,
+    "initial_count": 30,
+    "weekly_count": 12,
+    "total_count": 42,
+    "initial_best": -4.025542281908162,
+    "best_observed": 0.6329211561672214,
+    "best_source": "week 12"
+  },
+  {
+    "function": 5,
+    "dimensions": 4,
+    "initial_count": 20,
+    "weekly_count": 12,
+    "total_count": 32,
+    "initial_best": 1088.8596181962705,
+    "best_observed": 8282.121444742894,
+    "best_source": "week 8"
+  },
+  {
+    "function": 6,
+    "dimensions": 5,
+    "initial_count": 20,
+    "weekly_count": 12,
+    "total_count": 32,
+    "initial_best": -0.7142649478202404,
+    "best_observed": -0.1122331349654699,
+    "best_source": "week 10"
+  },
+  {
+    "function": 7,
+    "dimensions": 6,
+    "initial_count": 30,
+    "weekly_count": 12,
+    "total_count": 42,
+    "initial_best": 1.3649683044991994,
+    "best_observed": 2.435565537249046,
+    "best_source": "week 8"
+  },
+  {
+    "function": 8,
+    "dimensions": 8,
+    "initial_count": 40,
+    "weekly_count": 12,
+    "total_count": 52,
+    "initial_best": 9.598482002566342,
+    "best_observed": 9.9908374428501,
+    "best_source": "week 11"
+  }
+]
