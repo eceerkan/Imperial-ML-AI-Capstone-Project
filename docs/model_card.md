@@ -1,4 +1,4 @@
-# BBO Capstone Project - Optimisation Model Card
+# Imperial-ML-AI-Capstone-Project - Optimisation Model Card
 
 ## Overview
 

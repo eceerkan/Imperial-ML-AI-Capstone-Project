@@ -1,4 +1,4 @@
-# Black-Box Optimisation (BBO) Capstone — Portfolio
+# Imperial-ML-AI-Capstone-Project
 
 **Eight unknown functions · 2–8 dimensions · 12 recorded weekly rounds · GP-based Bayesian optimisation**
 
@@ -28,21 +28,33 @@ These are per-function **maximisation** scores, on different scales. Note: Funct
 ## Repository map
 
 ```text
-BBO_Capstone_Portfolio/
+Imperial-ML-AI-Capstone-Project/
+├── .gitignore
+├── LICENSE_NOTE.md
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── initial_data/function_1...function_8/  # starter .npy arrays
+│   ├── initial_data/
+│   │   ├── function_1/
+│   │   ├── function_2/
+│   │   ├── function_3/
+│   │   ├── function_4/
+│   │   ├── function_5/
+│   │   ├── function_6/
+│   │   ├── function_7/
+│   │   └── function_8/
 │   └── processed/
-│       ├── query_history.csv                   # 96 submitted evaluations
-│       ├── all_observations.csv                # starter + all 12 rounds
-│       └── summary.json                        # counts and best outcomes
-├── notebooks/BBO_Weeks_1_to_12.ipynb           # executable walkthrough
-├── src/optimisation.py                         # reference GP + EI implementation
-├── docs/
-│   ├── datasheet.md
-│   ├── model_card.md
-│   └── methodology.md
+│       ├── query_history.csv
+│       ├── all_observations.csv
+│       └── summary.json
+├── notebooks/
+│   └── BBO_Weeks_1_to_12.ipynb
+├── src/
+│   └── optimisation.py
+└── docs/
+    ├── datasheet.md
+    ├── model_card.md
+    └── methodology.md
 ```
 
 ## Documentation and deliverables
